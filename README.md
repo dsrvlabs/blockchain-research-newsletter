@@ -1,2 +1,4 @@
-# blockchain-research-newsletter
-Monthly Blockchain Research Newsletter
+# 블록체인 연구 뉴스레터
+
+* [2021년 6월](ko/202106.md)
+
